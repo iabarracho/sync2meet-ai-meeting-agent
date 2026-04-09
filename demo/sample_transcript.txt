@@ -1,0 +1,13 @@
+Project Phoenix sync — April 2, 2026.
+
+Facilitator: Thanks everyone. Quick round on deliverables.
+
+Alice: I'll email the revised Q2 budget spreadsheet to Finance by this Friday end of day.
+
+Bob: I'll book the client demo for Tuesday next week and send the calendar invite today.
+
+We agreed to postpone the mobile app release until the external security audit is finished.
+
+Risk: the payments vendor API might slip by a week if their QA backlog stays heavy.
+
+Meeting adjourned.

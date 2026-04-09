@@ -1,0 +1,7 @@
+{
+  "meeting_date": "2026-04-02",
+  "participants": [
+    { "name": "Alice", "email": "alice@example.com" },
+    { "name": "Bob", "email": "bob@example.com" }
+  ]
+}
